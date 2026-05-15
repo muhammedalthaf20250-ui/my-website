@@ -1,5 +1,5 @@
 # My site
-My web is about a cat.It is a simple site is i make
+My web is about a cat.
 
 ## Preview
 
